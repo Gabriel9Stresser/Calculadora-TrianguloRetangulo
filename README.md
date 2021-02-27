@@ -1,5 +1,5 @@
 # Triangulo Retangulo App
-Projeto proposto pelo grupo Meta com o objetivo de apoiar o meu grande colega Pitagoras em seus sonhos!
+Projeto proposto pelo grupo Cromai com o objetivo de apoiar o meu grande colega Pitagoras em seus sonhos!
 
 ![Alt Text](https://media.giphy.com/media/Q8zKN4zm1JG43djm3w/giphy.gif)
 
