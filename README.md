@@ -8,7 +8,6 @@ Projeto proposto pelo grupo Meta com o objetivo de apoiar o meu grande colega Pi
 O projeto foi criado seguindo as tecnologias a seguir:
 
 - [REACT-NATIVE](https://react-native.org/)
-- [REDUX](https://redux.org)
 - [EXPO](https://expo.org)
 
 ## 🚀 Getting started
